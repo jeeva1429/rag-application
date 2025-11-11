@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langchain-text-splitters
+langchain-community
+langchain-google-genai
+langchain-chroma
+pypdf
+openai
+python-dotenv
